@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+</head>
+<body>
+<div id="chart"></div>
+<script>
+    $.get('prices.json', function (data) {
+        drawChart(data);
+    });
+
+    function drawChart(data) {
+        const options = {
+            chart: {
+                height: 500,
+                type: 'line',
+                zoom: {
+                    enabled: false
+                }
+            },
+            dataLabels: {
+                enabled: false
+            },
+            stroke: {
+                curve: 'straight'
+            },
+            series: [{
+                name: "Quantity",
+                data: data['count']
+            }],
+            grid: {
+                row: {
+                    colors: ['#f3f3f3', 'transparent'],
+                    opacity: 0.5
+                },
+            },
+            xaxis: {
+                name: "Price",
+                categories: data['values'],
+            }
+        };
+
+        const chart = new ApexCharts(
+            document.querySelector("#chart"),
+            options
+        );
+
+        chart.render();
+    }
+</script>
+</body>
+</html>
