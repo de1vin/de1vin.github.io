@@ -1,5 +1,4 @@
 {
-    "Acme": [],
     "Alfa": [
         "Alfa Moonphase triple calendar"
     ],
@@ -10,9 +9,9 @@
         "Aureole 25 Jewels Automatic"
     ],
     "Baume & Mercier": [
+        "Baume &amp; Mercier Classic",
         "Baume &amp; Mercier Riviera",
-        "Baume &amp; Mercier Diamond",
-        "Baume &amp; Mercier Classic"
+        "Baume &amp; Mercier Diamond"
     ],
     "Bell & Ross": [
         "Bell &amp; Ross"
@@ -28,79 +27,79 @@
         "Boucheron Reflet"
     ],
     "Breitling": [
+        "Breitling 787",
+        "Breitling Chronomatic",
+        "Breitling Chronograph",
+        "Breitling Datora",
+        "Breitling Cadette",
         "Breitling Tricompax",
         "Breitling 2112 Chronomatic",
-        "Breitling Cadette",
-        "Breitling 787",
-        "Breitling Datora",
-        "Breitling Superocean II",
-        "Breitling Chronomatic",
-        "Breitling Chronograph"
+        "Breitling Superocean II"
     ],
     "Bucherer": [
-        "Bucherer",
-        "Bucherer Sub Professional"
+        "Bucherer Sub Professional",
+        "Bucherer"
     ],
     "Bulgari": [
+        "Bulgari Ergon",
         "Bulgari SD 38 S",
-        "Bvlgari Diagono",
-        "Bulgari Ergon"
+        "Bvlgari Diagono"
     ],
     "Bulla": [
         "Bulla"
     ],
     "Bulova": [
-        "Bulova L6",
-        "Bulova Model N3",
-        "Manual Wind",
-        "Dress Watch",
         "Bulova Super Seville",
-        "BULOVA AMBASSADOR",
-        "Bulova",
-        "BULOVA",
-        "Swiss Bulova",
-        "Bulova Automatic",
-        "Bulova Watch",
+        "Dress Watch",
         "Bulova N7",
-        "Bulova L4 Dress Watch",
-        "Bulova M8",
-        "Bulova Marine Star",
         "BULOVA N1",
+        "Bulova Automatic",
+        "Bulova",
+        "Swiss Bulova",
+        "Manual Wind",
+        "Bulova L6",
+        "BULOVA AMBASSADOR",
         "BULOVA N6",
+        "Bulova M8",
+        "SUPER SEVILLE",
+        "Bulova Watch",
+        "BULOVA",
+        "Bulova Marine Star",
+        "Bulova Model N3",
         "Bulova N8",
-        "SUPER SEVILLE"
+        "Bulova L4 Dress Watch"
     ],
     "Burberry": [
         "Burberry Chronograph"
     ],
     "Calvin Klein": [
-        "CALVIN KLEIN CHRONOGRAPH",
+        "CALVIN KLEIN K51221  S. STEEL QUARTZ",
         "CALVIN KLEIN 3411  ST STEEL QUARTZ",
-        "CALVIN KLEIN K51221  S. STEEL QUARTZ"
+        "CALVIN KLEIN CHRONOGRAPH"
     ],
     "Cartier": [
-        "Must de Cartier 21",
-        "Cartier Tank Francaise",
-        "Must de Cartier Vermeil",
-        "Cartier Must 21",
-        "Cartier Santos",
-        "Cartier Pasha",
-        "Cartier Panthere",
-        "Must de Cartier Tank",
-        "Cartier Tank Americaine",
-        "Cartier must de 21",
-        "Cartier Panthere Round",
-        "Panthere Cartier",
         "Cartier J. Schulz",
-        "Roadster 2510 Cartier"
+        "Cartier must de 21",
+        "Must de Cartier 21",
+        "Cartier Pasha",
+        "Must de Cartier Tank",
+        "Cartier Must 21",
+        "Cartier Panthere",
+        "Roadster 2510 Cartier",
+        "Cartier Santos",
+        "Cartier Panthere Round",
+        "Must de Cartier Vermeil",
+        "Panthere Cartier",
+        "Cartier Tank Francaise",
+        "Cartier Tank Americaine"
     ],
     "Charles Jourdan": [
         "Charles Jourdan"
     ],
     "Chaumet": [
-        "Chaumet Class One Chronograph",
+        "Paris 750 A1040",
         "Chaumet 12R 0011",
-        "Paris 750 A1040"
+        "Chaumet Class One Chronograph"
     ],
     "Chopard": [
         "Chopard Classic"
@@ -109,44 +108,44 @@
         "Chronograph"
     ],
     "Citizen": [
-        "CITIZEN",
-        "Citizen Ace",
-        "Citizen DeLuxe",
-        "Original Vintage Citizen",
-        "Citizen Auto Dater",
-        "Citizen Auto Dater Rookie",
-        "Citizen 7 Autodater 520",
-        "Citizen Homer Autodater",
-        "Citizen Automatic",
-        "Crystal 7 Citizen",
-        "Citizen Crystate DeLuxe",
-        "Citizen",
-        "Homer Date Citizen",
-        "Citizen Deluxe",
-        "CITIZEN HMC DAY DATE S. STEEL MANUAL",
-        "CITIZEN AUTOMATIC WATCH",
-        "Citizen Watch",
         "Citizen Hi Line",
-        "Citizen Homer",
-        "Citizen DIASHOCK 17 Jewels",
-        "Citizen Homer Date",
-        "Citizen Homer date",
-        "Citizen ParaWater",
-        "Citizen Seven Star",
-        "Citizen Homer Phynox",
-        "Citizen Jet",
-        "Citizen Manhattan",
-        "Citizen Master",
-        "Citizen Parashock",
-        "Citizen Phynox",
-        "Citizen 7",
-        "Citizen Super DeLuxe",
         "Vintage Citizen",
-        "Citizen Alarm Date",
+        "CITIZEN AUTOMATIC WATCH",
+        "Citizen Homer Phynox",
+        "Citizen Homer Autodater",
+        "CITIZEN",
+        "Citizen Seven Star",
+        "Citizen Homer",
+        "Citizen DeLuxe",
+        "Citizen Watch",
+        "Citizen 7",
+        "Citizen Auto Dater",
+        "Citizen Manhattan",
+        "Citizen Phynox",
+        "Crystal 7 Citizen",
+        "Citizen Homer Date",
+        "Citizen",
+        "Citizen ParaWater",
+        "Citizen Deluxe",
+        "Citizen Master",
+        "Citizen Automatic",
+        "Citizen Ace",
+        "Citizen Super DeLuxe",
+        "Citizen HMC",
         "7 STAR Citizen",
-        "Citizen Young Homer",
+        "Citizen 7 Autodater 520",
+        "Citizen Crystate DeLuxe",
+        "Citizen Parashock",
+        "CITIZEN HMC DAY DATE S. STEEL MANUAL",
+        "Homer Date Citizen",
+        "Citizen DIASHOCK 17 Jewels",
+        "Original Vintage Citizen",
+        "Citizen Alarm Date",
+        "Citizen Jet",
+        "Citizen Homer date",
+        "Citizen Auto Dater Rookie",
         "Citizen 7 Star Custom Deluxe",
-        "Citizen HMC"
+        "Citizen Young Homer"
     ],
     "Coach": [
         "Coach"
@@ -174,13 +173,13 @@
         "EL Canto"
     ],
     "Elgin": [
-        "Elgin Datequartz",
-        "ELGIN"
+        "ELGIN",
+        "Elgin Datequartz"
     ],
     "Enicar": [
         "Enicar",
-        "cocktail",
         "Enicar Automatic",
+        "cocktail",
         "Automatic"
     ],
     "Fendi": [
@@ -196,21 +195,21 @@
         "Batman by Fossil"
     ],
     "Girard-Perregaux": [
+        "Girard-Perregaux Vintage",
         "Girard Perregaux",
-        "Girard Perregaux Richeville",
         "Girard-Perregaux Gyromatic",
-        "Girard-Perregaux Vintage"
+        "Girard Perregaux Richeville"
     ],
     "Givenchy": [
         "Givenchy Elitis"
     ],
     "Gucci": [
-        "Gucci 110",
-        "GUCCI 1400L",
-        "Gucci 3900L",
-        "Gucci 3000.2.L",
         "GUCCI",
-        "GUCCI 105"
+        "Gucci 110",
+        "Gucci 3000.2.L",
+        "Gucci 3900L",
+        "GUCCI 105",
+        "GUCCI 1400L"
     ],
     "Guess": [
         "Guess"
@@ -222,20 +221,20 @@
         "Hunting World"
     ],
     "IWC": [
-        "IWC Pilot's",
-        "IWC"
+        "IWC",
+        "IWC Pilot's"
     ],
     "J Springs": [
         "J Springs"
     ],
     "Jaeger-LeCoultre": [
-        "Jaeger-LeCoultre Tonneau Classic",
-        "Jaeger LeCoultre Manual",
-        "Jaeger LeCoultre Memovox",
         "Jaeger-LeCoultre Memovox",
-        "LeCoultre Memovox",
         "LeCoultre Powerwind",
-        "LeCoultre Reserve de Marche"
+        "Jaeger LeCoultre Memovox",
+        "LeCoultre Memovox",
+        "LeCoultre Reserve de Marche",
+        "Jaeger-LeCoultre Tonneau Classic",
+        "Jaeger LeCoultre Manual"
     ],
     "Junghans": [
         "Junghans Titan"
@@ -251,20 +250,20 @@
         "Leonard Watch"
     ],
     "Longines": [
-        "Conquest Longines",
+        "Longines Ladies Watch",
         "Longines Conquest",
-        "Quartz",
-        "Longines Watch",
-        "Longines",
-        "LONGINES DRESS WATCH",
-        "LONGINES SWISS DRESS WATCH",
         "LONGINES FLAGSHIP",
         "Longines Flagship",
-        "Flagship",
-        "Longines Ultra Chron",
+        "LONGINES DRESS WATCH",
+        "Longines",
+        "Quartz",
+        "Conquest Longines",
+        "LONGINES SWISS DRESS WATCH",
         "LONGINES 817-4408",
         "Longines Admiral",
-        "Longines Ladies Watch"
+        "Longines Ultra Chron",
+        "Flagship",
+        "Longines Watch"
     ],
     "Mathey-Tissot": [],
     "Mido": [
@@ -275,126 +274,126 @@
     ],
     "Movado": [
         "Movado Kingmatic",
-        "Movado Kingmatic S",
         "Movado Kingmatic HS 360",
         "Movado Vintage",
-        "Movado Tempo Matic"
+        "Movado Tempo Matic",
+        "Movado Kingmatic S"
     ],
     "Olma": [
         "Olma Chronograph"
     ],
     "Omega": [
-        "Omega Constellation",
-        "Omega Calibre 620",
-        "Omega Geneve",
-        "Omega Seamaster",
-        "Omega Flightmaster",
-        "Omega DeVille",
-        "Omega Automatic Bumper",
-        "Omega Automatic",
-        "omega Calibre 562",
-        "Omega Constellation Chronometer",
-        "Constellation Perpetual Calendar",
-        "Omega Deville",
-        "Omega De Ville",
         "Omega Dynamic",
-        "Omega 14391 61",
-        "Omega Seamaster cal 565",
-        "Geneve",
-        "Omega Geneve Automatic",
-        "Omega Geneve Dynamic",
-        "Omega Seamaster Cal 625",
-        "Omega",
-        "Omega Chronostop",
-        "Omega other",
-        "Omega Seamaster Professional",
-        "Omega Speedmaster Mark III",
-        "Omega Speedmaster",
+        "Omega Seamaster",
         "Omega Tresor",
-        "Omega Seamaster 120",
+        "Constellation Perpetual Calendar",
+        "Omega Mega Quartz 32KHz Seamaster",
+        "Omega De Ville",
+        "Omega Geneve",
+        "Omega Seamaster cal 565",
+        "Omega Constellation",
+        "Omega Speedmaster",
+        "Omega Calibre 620",
+        "Omega",
+        "Omega Speedmaster Professional",
+        "Omega Flightmaster",
+        "Omega Automatic",
+        "Omega DeVille",
+        "Omega Constellation Chronometer",
+        "Omega Automatic Bumper",
+        "Omega Geneve Dynamic",
+        "Omega Geneve Automatic",
+        "Omega other",
+        "Omega Speedmaster Mark 4.5",
+        "OMEGA SEAMASTER POLARIS",
+        "Omega Seamaster Cal 625",
+        "De Ville",
+        "Omega Seamaster Professional",
+        "Geneve",
+        "Omega Speedmaster Mark III",
         "Omega Diamond",
         "Omega Seamaster deville",
-        "Omega Mega Quartz 32KHz Seamaster",
-        "OMEGA SEAMASTER POLARIS",
+        "Omega Chronostop",
+        "Omega 14391 61",
         "Seamaster Speedsonic",
+        "omega Calibre 562",
+        "Omega Deville",
         "Omega Seamaster Jumbo",
-        "Omega Speedmaster Mark 4.5",
-        "Omega Speedmaster Professional",
-        "Omega Constellation Piepan",
-        "De Ville"
+        "Omega Seamaster 120",
+        "Omega Constellation Piepan"
     ],
     "Orient": [
         "Orient Crystal",
         "Orient Royal",
+        "Orient Olympia Calendar",
         "Bronco",
         "ORIENT KING DIVER",
-        "Orient Olympia Calendar",
         "Orient"
     ],
     "Orient Star": [
         "Orient Star"
     ],
     "Patek Philippe": [
+        "Patek Philippe Geneve",
         "Patek Philippe Calatrava",
         "Patek Philippe Golden Ellipse",
-        "Patek Philippe Gondolo",
-        "Patek Philippe Geneve"
+        "Patek Philippe Gondolo"
     ],
     "Paul Smith": [
         "Paul Smith"
     ],
     "Piaget": [
-        "Classique",
-        "Piaget Classic",
-        "Piaget Dancer",
         "Piaget Protocole",
-        "Piaget Automatic 12603"
+        "Piaget Classic",
+        "Classique",
+        "Piaget Automatic 12603",
+        "Piaget Dancer"
     ],
     "Pocket watch": [],
     "Precimax": [
         "Dress Watch"
     ],
     "Rado": [
-        "Rado Diastar",
-        "Rado Conway",
+        "Rado Voyager",
+        "Rado Musketeer X",
         "Rado Elegance",
+        "Rado Silver Horse",
         "NCC444",
+        "Rado Conway",
         "Rado Purple Gazelle",
+        "Rado Silver Gazelle",
+        "Rado Diastar",
+        "Rado Balboa V",
         "Purple Gazelle",
         "Rado Purple Horse",
-        "Rado Musketeer X",
-        "Rado Balboa V",
-        "Conway",
-        "RADO SHANGRI-LA AUTOMATIC 561.7502.4",
-        "Rado Voyager",
-        "Rado Silver Horse",
         "Rado Musketeer VIII",
-        "Rado Silver Gazelle",
         "Rato T966",
+        "RADO SHANGRI-LA AUTOMATIC 561.7502.4",
+        "Conway",
         "Rado Marco Polo"
     ],
     "Raymond Weil": [
-        "9989",
-        "Raymond Weil Geneve"
+        "Raymond Weil Geneve",
+        "9989"
     ],
     "Rolex": [
-        "Rolex 8570",
-        "Rolex 1501",
         "Rolex Oysterdate",
-        "Rolex Datejust",
         "Rolex Cellini",
         "Rolex 6694",
+        "Rolex Geneve",
         "Rolex Precision",
         "Rolex Oyster Perpetual",
-        "Rolex Oyster Perpetual Date",
-        "Rolex Oysterdate Precision",
-        "Rolex Geneve",
-        "Rolex 15053",
-        "Rolex 1550",
         "Rolex",
-        "Rolex Oyster Precision",
+        "Rolex Oysterdate Precision",
+        "Rolex 15053",
+        "Rolex 8570",
         "Rolex 16013",
-        "Rolex Orchid Solid Gold Watch"
+        "Rolex Datejust",
+        "Rolex Oyster Perpetual Date",
+        "Rolex Oyster Precision",
+        "Rolex Orchid Solid Gold Watch",
+        "Rolex 1501",
+        "Rolex 1550"
     ],
     "Rollei Watch": [
         "Rollei Watch"
@@ -403,74 +402,74 @@
         "Royce Automatic Diver"
     ],
     "Seiko": [
-        "Seiko QZ",
-        "Seiko Quartz",
-        "SEIKO 2559-3010",
-        "Seiko 3863 7001",
-        "Seiko Actus SS",
-        "Seiko 5 21 JEWELS Automatic",
-        "Seiko Actus",
-        "Seiko 5 Actus",
-        "SEIKO Actus 7019 8010",
-        "SEIKO 5 6309 8940",
-        "Seiko 5",
-        "Seiko 5 6309-5500",
-        "Seiko 7019-7050",
-        "SEIKO 5 DX",
-        "SEIKO 5",
-        "Seiko 5 Sports",
-        "SEIKO 5 6309 5360",
-        "SEIKO 6119 5450",
-        "Seiko",
-        "7005 Seiko",
-        "SEIKO 7006 7119",
-        "SEIKO 5 AUTOMATIC 7009-5110",
-        "Seiko 7006 8029",
-        "SEIKO ACTUS 5",
-        "SEIKO ACTUS",
-        "SEIKO Actus",
-        "Seiko Actus Day Date Automatic 6106-7600",
-        "Seiko Alba Quartz",
-        "Seiko Seikomatic",
-        "Seiko Champion Calendar 860",
-        "Seiko Champion",
-        "Seiko Champion Calendar  860",
-        "Seiko 6139 9020",
-        "Seiko Chronograph",
         "Seiko Crown",
-        "Seiko Cronos",
-        "Seiko 6139 6002",
-        "SEIKO",
-        "Seiko DX",
-        "Seiko DX 6106 5529",
-        "Seiko Electronic",
-        "Seiko King Quartz",
-        "Seiko Emblem Day Date Automatic 2409-0030",
-        "Seiko Grand Quartz",
-        "Seiko 5 Speedtimer",
-        "Seiko Type II",
-        "Seiko Laurel Watch",
-        "Seiko Laurel",
-        "Seiko Lord Matic",
-        "Seiko Sportsmatic",
-        "Seiko LM Lord Matic",
-        "Seiko Day Date Automatic 7009-535a",
-        "SEIKO 5 AUTOMATIC",
-        "Seiko Marvel",
-        "Seiko Presmatic",
-        "Seiko 220-0520",
         "Seiko Seikomatic R",
-        "Seiko Skyliner",
-        "Seiko Solar Quartz",
-        "Seiko 7015-7000 Speedtimer",
-        "Seiko Sportsman",
-        "Sportsmatic Seiko 5",
-        "Seiko Super",
-        "Seiko Type II Quartz",
+        "Seiko King Quartz",
         "Seiko Manual Wind Dress Watch 6220-8990",
-        "SEIKO 5 AUTOMATIC 7009-5180",
+        "SEIKO 5 AUTOMATIC 7009-5110",
+        "7005 Seiko",
+        "Seiko LM Lord Matic",
+        "Seiko 5",
+        "Seiko Laurel Watch",
+        "SEIKO 5 6309 5360",
+        "Seiko Champion",
+        "Seiko Actus",
+        "SEIKO 5 AUTOMATIC",
+        "Seiko Sportsman",
+        "SEIKO Actus 7019 8010",
+        "Seiko Chronograph",
+        "Seiko Type II Quartz",
+        "SEIKO ACTUS",
+        "Seiko 6139 9020",
         "Seiko LM",
-        "SEIKO 6309 513C"
+        "SEIKO 5 6309 8940",
+        "Seiko Sportsmatic",
+        "Seiko Marvel",
+        "Seiko Laurel",
+        "Seiko Actus Day Date Automatic 6106-7600",
+        "Seiko DX",
+        "Seiko Quartz",
+        "Seiko Presmatic",
+        "Seiko 5 Actus",
+        "Seiko 6139 6002",
+        "Seiko Super",
+        "SEIKO 7006 7119",
+        "SEIKO 5 AUTOMATIC 7009-5180",
+        "Seiko Emblem Day Date Automatic 2409-0030",
+        "Seiko Seikomatic",
+        "Seiko 220-0520",
+        "Seiko 3863 7001",
+        "Sportsmatic Seiko 5",
+        "Seiko Champion Calendar  860",
+        "Seiko 5 Sports",
+        "SEIKO 5 DX",
+        "Seiko 5 Speedtimer",
+        "Seiko 5 6309-5500",
+        "Seiko Electronic",
+        "Seiko Alba Quartz",
+        "Seiko DX 6106 5529",
+        "SEIKO 5",
+        "SEIKO 6309 513C",
+        "Seiko Actus SS",
+        "Seiko Skyliner",
+        "Seiko 7006 8029",
+        "SEIKO 2559-3010",
+        "SEIKO Actus",
+        "Seiko QZ",
+        "SEIKO ACTUS 5",
+        "Seiko Cronos",
+        "Seiko Type II",
+        "SEIKO 6119 5450",
+        "SEIKO",
+        "Seiko Lord Matic",
+        "Seiko Solar Quartz",
+        "Seiko 5 21 JEWELS Automatic",
+        "Seiko 7019-7050",
+        "Seiko",
+        "Seiko Champion Calendar 860",
+        "Seiko Grand Quartz",
+        "Seiko 7015-7000 Speedtimer",
+        "Seiko Day Date Automatic 7009-535a"
     ],
     "Sidney": [
         "Sidney"
@@ -497,45 +496,45 @@
         "Technos Ladies Watch"
     ],
     "Tiffany & Co.": [
-        "Tiffany and Co Resonator",
+        "Tiffany &amp; Co. Manual Wind",
         "Tiffany &amp; Co. Automatic",
-        "Tiffany &amp; Co. Manual Wind"
+        "Tiffany and Co Resonator"
     ],
     "Tissot": [
-        "Tissot C260",
-        "chronograph",
-        "Tissot Navigator",
+        "Tissot Seastar Seven",
         "Omega De Ville",
+        "Tissot Navigator",
         "Tissot Seastar T12",
-        "Tissot Seastar Seven"
+        "chronograph",
+        "Tissot C260"
     ],
     "Tradition": [],
     "Tropical Star": [
         "Florida"
     ],
     "Tudor": [
-        "Rolex Tudor OysterPrince",
-        "Tudor Prince Oysterdate",
-        "Tudor Prince Quartz Oysterdate",
-        "Tudor Princess Oysterdate",
         "Tudor Princess Oyster Quartz",
-        "Tudor Advisor",
+        "Tudor Princess Oysterdate",
+        "Tudor Prince",
+        "Tudor Prince Oysterdate",
+        "Rolex Tudor OysterPrince",
         "Tudor Prince Oysterdate Chrono-Time",
-        "Tudor Prince"
+        "Tudor Prince Quartz Oysterdate",
+        "Tudor Advisor"
     ],
     "Tugaris": [
-        "Tugaris Automatic",
+        "Tugaris",
         "TUGARIS MODEL D.S 5923",
-        "Tugaris"
+        "Tugaris Automatic"
     ],
     "Ulysse Nardin": [],
     "Universal Geneve": [
-        "Universal Geneve 523.612",
-        "Universal Geneve"
+        "Universal Geneve",
+        "Universal Geneve 523.612"
     ],
     "Vacheron Constantin": [
-        "Vacheron Constantin",
         "Vacheron Constantin Geneve",
+        "Vacheron Constantin",
         "Vacheron Constantin Classic"
     ],
     "Valruz": [
@@ -546,18 +545,18 @@
     ],
     "Vulcain": [],
     "Waltham": [
-        "Waltham",
-        "Waltham Maxim"
+        "Waltham Maxim",
+        "Waltham"
     ],
     "Wittnauer": [
-        "Art Deco",
         "Wittnauer",
-        "Wittnauer Geneve"
+        "Wittnauer Geneve",
+        "Art Deco"
     ],
     "Zenith": [
+        "Zenith Chronograph",
         "Zenith chronograph",
-        "ZENITH DRESS WATCH FOR WOMEN",
-        "Zenith Chronograph"
+        "ZENITH DRESS WATCH FOR WOMEN"
     ],
     "Zodiac": [
         "Zodiac Super Sea Wolf"
